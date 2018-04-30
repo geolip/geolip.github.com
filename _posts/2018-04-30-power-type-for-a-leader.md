@@ -3,8 +3,6 @@ layout: post
 title: Power type for a leader in a software development team
 ---
 
-**Power type for a leader in a software development team**
-
 Nobody knows exactly how leadership works, it is intangible. What we know is the result. And the result is that good leaders can influence the behaviour of others, their subordinates. And the means to do that are provided by power that the leader utilizes.
 
 There are seven bases of power that are defined for us by Hersey, Blanchard, and Natemeyer (1979). Those are:
